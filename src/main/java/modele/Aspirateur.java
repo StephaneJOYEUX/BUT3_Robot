@@ -4,6 +4,9 @@ import enumerations.EDirection;
 import interfaces.IRobot;
 import strategie.StrategieDeplacement;
 
+/**
+ * 
+ */
 public class Aspirateur implements IRobot {
     @Override
     public EDirection getSens() {
