@@ -5,7 +5,7 @@ import interfaces.IRobot;
 import strategie.StrategieDeplacement;
 
 /**
- * 
+ * fdfsfdsf
  */
 public class Aspirateur implements IRobot {
     @Override
