@@ -20,7 +20,7 @@ public class Aspirateur implements IRobot {
 
     @Override
     public Case getCaseFinale() {
-        return null;
+        return new Case(1,2);
     }
 
     @Override
